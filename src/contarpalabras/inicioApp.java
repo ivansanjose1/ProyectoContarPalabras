@@ -19,10 +19,6 @@ public class inicioApp {
         palabras = 0;
     }
 
-    
-    
-    
-    
     public static void contarPalabras(String cadena) {
         char vacio = ' ';
         ///Hay aveces que el lenght no se pone automativo
